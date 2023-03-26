@@ -5,5 +5,5 @@ metadata:
 spec:
   containers:
     - name: stress
-      image: streecntr
+      image: udaysha10/stresscntr
       command: ["sleep","2000"]
